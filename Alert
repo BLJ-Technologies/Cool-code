@@ -1,0 +1,4 @@
+alert ("Hi! This is the sweaty socks! We are redirecting you to our website.")
+window.location.replace('https://sweatysockshistory.wixsite.com/sweaty-socks-history');
+window.location.href = "https://sweatysockshistory.wixsite.com/sweaty-socks-history";
+window.location = "https://sweatysockshistory.wixsite.com/sweaty-socks-history";...
